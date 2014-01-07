@@ -4,12 +4,12 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 	<parent>
 		<groupId>org.jboss.tools</groupId>
 		<artifactId>parent</artifactId>
-		<version>4.1.0.Final-SNAPSHOT</version>
+		<version>4.1.2.Alpha1-SNAPSHOT</version>
 	</parent>
 	<groupId>org.jboss.tools</groupId>
 	<artifactId>bpel</artifactId>
 	<name>bpel.all</name>
-	<version>1.2.100-SNAPSHOT</version>
+	<version>1.2.101-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
 		<module>plugins</module>
